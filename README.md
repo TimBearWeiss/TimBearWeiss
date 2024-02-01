@@ -4,12 +4,12 @@ Telegramm: @incognitoFerez
 
 
 ## Проекты:
-### Frontend:  
+#### Frontend:  
 https://timbearweiss.github.io/openmedia-test-task/  
 https://timbearweiss.github.io/First_project_about_education/  
 https://timbearweiss.github.io/russian-travel/  
 
-### Backend:  
+#### Backend:  
 https://github.com/TimBearWeiss/Mesto-API  
 
 
