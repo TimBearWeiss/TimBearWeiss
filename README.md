@@ -1,4 +1,4 @@
-## Hi there, I'm Dmitrii
+## Привет, здесь мои контакты: 
 E-mail: ZverevTimbear@yandex.ru  
 Telegramm: @incognitoFerez
 
