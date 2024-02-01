@@ -3,7 +3,7 @@ E-mail: ZverevTimbear@yandex.ru
 Telegramm: @incognitoFerez
 
 
-##<h2 align="center">Проекты </h2> 
+##Проекты:
 Frontend:  
 https://timbearweiss.github.io/openmedia-test-task/  
 https://timbearweiss.github.io/First_project_about_education/  
