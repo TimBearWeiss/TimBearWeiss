@@ -4,14 +4,7 @@ E-mail: ZverevTimbear@yandex.ru
 Telegramm: @incognitoFerez
 
 
-Ссылка на проект: 
-https://github.com/TimBearWeiss/react_burger/tree/main  
-https://github.com/TimBearWeiss/Mesto__OOP/tree/feat/mesto-update  
-Интересные проекты:   
-https://github.com/TimBearWeiss/Algososh  
-https://github.com/TimBearWeiss/openmedia-test-task  
-https://github.com/TimBearWeiss/First_project_about_education  
-https://github.com/TimBearWeiss/russian-travel  
+Проекты: 
 
 
 
