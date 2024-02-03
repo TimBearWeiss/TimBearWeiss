@@ -5,7 +5,7 @@ Telegramm: @incognitoFerez
 
 ## Проекты:
 #### Frontend:  
-https://timbearweiss.github.io/MestoPages/
+https://timbearweiss.github.io/MestoPages/  
 https://timbearweiss.github.io/openmedia-test-task/  
 https://timbearweiss.github.io/First_project_about_education/  
 https://timbearweiss.github.io/russian-travel/  
