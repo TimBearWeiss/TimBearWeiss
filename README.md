@@ -10,7 +10,7 @@ https://timbearweiss.github.io/openmedia-test-task/
 https://timbearweiss.github.io/testReactBurger/  
 https://timbearweiss.github.io/First_project_about_education/  
 https://timbearweiss.github.io/russian-travel/  
-https://github.com/TimBearWeiss/Algososh  
+https://timbearweiss.github.io/AlgososhPages/    
 https://timbearweiss.github.io/Coop__project_prozhito/  
 
 #### Backend:  
