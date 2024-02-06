@@ -1,8 +1,3 @@
-## Контакты: 
-E-mail: ZverevTimbear@yandex.ru  
-Telegram: @incognitoFerez
-
-
 ## Проекты:
 #### Frontend:  
 https://timbearweiss.github.io/MestoPages/  
@@ -40,7 +35,9 @@ https://github.com/TimBearWeiss/Mesto-API
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 
-
+## Контакты: 
+E-mail: ZverevTimbear@yandex.ru  
+Telegram: @incognitoFerez
 <!--
 **TimBearWeiss/TimBearWeiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
