@@ -1,6 +1,6 @@
 ## Контакты: 
 E-mail: ZverevTimbear@yandex.ru  
-Telegramm: @incognitoFerez
+Telegram: @incognitoFerez
 
 
 ## Проекты:
