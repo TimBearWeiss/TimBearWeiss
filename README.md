@@ -1,15 +1,16 @@
 ## Проекты:
 #### Frontend:  
-https://timbearweiss.github.io/MestoPages/  
-https://timbearweiss.github.io/openmedia-test-task/  
-https://timbearweiss.github.io/testReactBurger/  
-https://timbearweiss.github.io/First_project_about_education/  
-https://timbearweiss.github.io/russian-travel/  
-https://timbearweiss.github.io/AlgososhPages/    
-https://timbearweiss.github.io/Coop__project_prozhito/  
+
+ :pushpin:<a href="https://timbearweiss.github.io/MestoPages/  ">Место (ООП). Соцсеть для обмена картинками.</a>  
+ :pushpin:<a href="https://timbearweiss.github.io/testReactBurger/">Космическая бургерная с drag&drop конструктором и websocket.</a>  
+ :pushpin:<a href="https://timbearweiss.github.io/AlgososhPages/">Algososh. Визуализатор алгоритмов. Jest+Cypress</a>  
+ :pushpin:<a href="https://timbearweiss.github.io/MestoPages/  ">Open-media. Кастомный аудиоплеер.</a>  
+ :pushpin:<a href="https://timbearweiss.github.io/Coop__project_prozhito/">Прожито. Разработка нового сайта для Центра Европейского университета в Санкт-Петербурге.</a>  
+ :pushpin:<a href="https://timbearweiss.github.io/russian-travel/  ">Путешествие по России.</a>  
+ :pushpin:<a href="https://timbearweiss.github.io/First_project_about_education/">Научиться учиться. Проект, который рассказывает о самообучении и различных способах сделать это самообучение более эффективным</a>  
 
 #### Backend:  
-https://github.com/TimBearWeiss/Mesto-API  
+:pushpin:<a href="https://github.com/TimBearWeiss/Mesto-API">Backend часть пронета Место.</a> 
 
 
 ## Мой стек:
@@ -35,7 +36,7 @@ https://github.com/TimBearWeiss/Mesto-API
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 
-## Контакты: 
+## Контакты: :octocat:
 E-mail: ZverevTimbear@yandex.ru  
 Telegram: @incognitoFerez
 <!--
